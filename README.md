@@ -1,1 +1,1 @@
-Nano versions of relevant neural networks to keep easy track of what was what..
+Nano versions of relevant DNNs to keep easy track of what was what..
